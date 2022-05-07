@@ -6,7 +6,7 @@ public class Calculate {
         printMenu();
     }
     
-    // Menu Calculate 
+    // Menu
     public static void printMenu(){
         Scanner input = new Scanner(System.in);
         Boolean menuChecker = true;
